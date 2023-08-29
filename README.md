@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gerrit38
 - 👀 I’m interested in ABAP
 - 🌱 I’m currently learning ABAP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ABAP
+- 📫 How to reach me MAIL
 
 <!---
 Gerrit38/Gerrit38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
